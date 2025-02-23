@@ -1,0 +1,10 @@
+.dashboard {
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.card {
+  background: linear-gradient(45deg, #a74ebf, #e06496);
+  padding: 20px;
+  color: white;
+}/*# sourceMappingURL=dashboard.modoules.css.map */

@@ -1,0 +1,12 @@
+.sidebar {
+  width: 250px;
+  flex-shrink: 0;
+}
+.sidebar .MuiDrawer-paper {
+  width: 250px;
+  background-color: #e6f3ff;
+}
+
+.sidebar-icon {
+  color: #1976d2;
+}/*# sourceMappingURL=sidebar.medules.css.map */
